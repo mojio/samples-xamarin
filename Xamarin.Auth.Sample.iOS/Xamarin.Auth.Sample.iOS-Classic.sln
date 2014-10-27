@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Auth Sample (iOS Classic)", "Xamarin.Auth Sample (iOS Classic).csproj", "{3653E844-23F0-4246-A953-CEB9BD9E3AE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mojio.Client", "..\lib\Mojio.Client\Src\Mojio.Client\Mojio.Client.csproj", "{64B1AA53-3183-400B-82D7-DC34CA2EE35A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mojio", "..\lib\Src\Mojio\Mojio.csproj", "{FAECCBE3-5E0C-4140-90F0-FF35059673E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mojio", "..\lib\Mojio.Client\Src\Mojio\Mojio.csproj", "{FAECCBE3-5E0C-4140-90F0-FF35059673E9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mojio.Client", "..\lib\Src\Mojio.Client\Mojio.Client.csproj", "{64B1AA53-3183-400B-82D7-DC34CA2EE35A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
